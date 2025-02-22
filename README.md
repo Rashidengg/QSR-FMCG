@@ -2,6 +2,8 @@
 Quick Service Restaurant" and "FMCG" stands for "Fast-Moving Consumer Goods"
 # Crunchy Corner Business Optimization & Budgeting Dashboard
 
+![Image](https://github.com/user-attachments/assets/365b72d1-280f-4543-868e-02b730b2229b)
+
 ## Project Overview  
 This project analyzes and optimizes the financial performance of **Crunchy Corner**, one of India's largest fast-food restaurant chains. The goal is to create an interactive Power BI dashboard to monitor key metrics, analyze budget variance, and identify optimization opportunities using advanced DAX calculations.  
 
