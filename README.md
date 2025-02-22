@@ -1,5 +1,5 @@
 # QSR-FMCG
-Quick Service Restaurant" and "FMCG" stands for "Fast-Moving Consumer Goods"
+Quick Service Restaurant" and "Fast-Moving Consumer Goods"
 # Crunchy Corner Business Optimization & Budgeting Dashboard
 
 ![Image](https://github.com/user-attachments/assets/365b72d1-280f-4543-868e-02b730b2229b)
