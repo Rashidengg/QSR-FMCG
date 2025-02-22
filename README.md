@@ -89,3 +89,8 @@ This dashboard empowers Crunchy Corner’s stakeholders to:
 **Links Summary**  
 - Unclean Data: [Link](https://drive.google.com/drive/u/2/folders/1RqLzgf_5P2n4-XBNThF-18j9NpeKS9XS)  
 - Clean Data, PPTX, PDF, PBIX: [Link](https://drive.google.com/drive/u/2/folders/1fm-456LUYxFk_5JKYNZJ97p1B2bXxw4n)
+
+Contact Me
+
+- LinkedIn: [Link](www.linkedin.com/in/rashid-khan-analyst)  
+- GitHub: [Link](https://github.com/Rashidengg) 
