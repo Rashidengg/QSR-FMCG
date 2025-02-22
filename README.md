@@ -94,5 +94,5 @@ This dashboard empowers Crunchy Corner’s stakeholders to:
 
 Contact Me
 
-- LinkedIn: [Link](www.linkedin.com/in/rashid-khan-analyst)  
+- LinkedIn: [Link](https://www.linkedin.com/in/rashid-khan-analyst/)  
 - GitHub: [Link](https://github.com/Rashidengg) 
